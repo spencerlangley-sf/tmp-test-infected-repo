@@ -12,3 +12,6 @@ Git history should
 1) In another commit add anothergoodfile.txt
 
 Running the cleaner tool should result in rewriting the history such that malicous code is removed from git history but other edits remain uneffected.
+
+
+Testing PR archiving
